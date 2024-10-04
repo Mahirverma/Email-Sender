@@ -24,3 +24,25 @@ Hi,
     </ol>
   </li>
 </ul>
+<h3>Set Up Your Own Third Party App Password For Your Gmail</h3>
+<ul>  
+  <li>
+    <p>For this you need to sign-in to your gmail and click on your profile in the right corner.</p>
+  </li> 
+  <li>
+    <p>Click on 'manage your google account'.</p>
+  </li>  
+  <li>
+    <p>Click on 'security' from the left menu.</p>
+  </li>
+  <li>
+    <p>Scroll down and click on '2-Step Verification'.</p>
+  </li>
+  <li>
+    <p>Scroll down to the bottom and set up your 'App passwords' and its done.</p>
+  </li>
+  <li>
+    <p>You can use your program freely now. You can also duplicate the program and change settings according to the person you are sending the email to or accorsing to the email content.</p>
+  </li>
+</ul>
+<p><strong>Thanks for visiting this repository.</strong></p>
